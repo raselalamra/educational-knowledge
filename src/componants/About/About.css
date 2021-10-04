@@ -1,0 +1,9 @@
+.about-container{
+    padding: 30px;
+}
+.cart{
+    margin: 10px;
+    border: 1px solid gray;
+    padding: 10px;
+    height: 450px;
+}

@@ -1,0 +1,91 @@
+[
+  {
+      "_id": "6159f1a2341430d3d8643255",
+      "index": 0,
+      "rating": 5,
+      "price": 5000,
+      "picture": "https://us.123rf.com/450wm/feodora52/feodora522010/feodora52201000052/157151769-vector-of-a-teacher-hand-holding-a-book-bridging-the-gap-in-education-for-a-group-of-business-people.jpg?ver=6",
+      "course_name": "Petra Duffy",
+      "instructor_name": "Marina Ewing",
+      "details": "Lillie",
+      "subject": "Math"
+  },
+  {
+      "_id": "6159f1a2d20f1d1fe47d16ac",
+      "index": 1,
+      "rating": 5,
+      "price": 7000,
+      "picture": "https://leverageedu.com/blog/wp-content/uploads/2020/04/Scholarship-Exam.png",
+      "course_name": "Allison Hill",
+      "instructor_name": "Mcneil Reed",
+      "details": "Mcintosh",
+      "subject": "Francine"
+  },
+  {
+      "_id": "6159f1a2a70d744fe4bc3c76",
+      "index": 2,
+      "rating": 4,
+      "price": 4300,
+      "picture": "https://images.shiksha.com/mediadata/images/articles/1593855628phpxcz2vz.jpeg",
+      "course_name": "Cervantes Jordan",
+      "instructor_name": "Whitney Barlow",
+      "details": "Skinner",
+      "subject": "English"
+  },
+  {
+      "_id": "6159f1a2015dd8251f61c027",
+      "index": 3,
+      "rating": 5,
+      "price": 3500,
+      "picture": "https://leverageedu.com/blog/pu/wp-content/uploads/sites/3/2019/08/Course-after-MBA.png",
+      "course_name": "Bright Dejesus",
+      "instructor_name": "Cote Hester",
+      "details": "Harris",
+      "subject": "Chemistry"
+  },
+  {
+      "_id": "6159f1a2b0b406602641b996",
+      "index": 4,
+      "rating": 3,
+      "price": 3300,
+      "picture": "https://image.freepik.com/free-vector/mba-illustration-flat-tiny-master-business-administration-person-concept-education-management-strategy-student-knowledge-growth-graduation-hat-as-academical-learning-wisdom-symbol_126608-663.jpg",
+      "course_name": "Wall Lindsey",
+      "instructor_name": "Sadie Beach",
+      "details": "Norton",
+      "subject": "Physics"
+  },
+  {
+      "_id": "6159f1a252bedc2d43a8f774",
+      "index": 5,
+      "rating": 4,
+      "price": 3500,
+      "picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201811/online-3412473_1920_1.jpeg?tz.RfsTe_UTLHiDqxmpG7PY_nTIBjwF7",
+      "course_name": "Cathy Leach",
+      "instructor_name": "Gibson Newton",
+      "details": "Sasha",
+      "subject": "Snider"
+  },
+  {
+      "_id": "6159f1a2a09f47b9bf3dd437",
+      "index": 6,
+      "rating": 4,
+      "price": 3400,
+      "picture": "https://leverageedu.com/blog/wp-content/uploads/2020/02/MBA-Scholarships.jpg",
+      "course_name": "Margery Poole",
+      "instructor_name": "Alison Gentry",
+      "details": "Mcintosh",
+      "subject": "Blankenship"
+  },
+  {
+      "_id": "6159f1a20ebf778cfa8dcadf",
+      "index": 7,
+      "rating": 3,
+      "price": 2900,
+      "picture": "https://blog.foreignadmits.com/wp-content/uploads/2021/02/0183_Foreign-Admits-Blog-Cover-Design-Everything-You-Need-to-Know-about-IIM-Scholarship.jpg",
+      "course_name": "Ramos Moses",
+      "instructor_name": "Goodwin Garza",
+      "details": "Camille",
+      "subject": "Simone"
+  }
+]
+
