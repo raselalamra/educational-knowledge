@@ -1,10 +1,15 @@
 .card-hover:hover{
     transform: scale(1.02);
-    margin-bottom: 20px;
+    transition: 1s;
+    
 }
 .card-hover img{
     height: 20rem;
 }
 .card-hover .card{
-    box-shadow: 0px 0px 15px grey;
+    box-shadow: 0px 0px 5px grey;
 }
+.card-hover{
+    margin-bottom: 20px;
+}
+

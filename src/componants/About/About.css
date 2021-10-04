@@ -5,5 +5,9 @@
     margin: 10px;
     border: 1px solid gray;
     padding: 10px;
-    height: 450px;
+    height: 370px;
+}
+.cart:hover{
+    transform: scale(1.02);
+    transition: 1s;
 }
