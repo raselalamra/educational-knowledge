@@ -51,7 +51,7 @@ const Footer = () => {
 
                     <p className="footer-company-about">
                         <span>About Us</span>
-                        Over several months this past spring, national correspondent Beth Hawkins tracked the groundbreaking integration efforts of the 78207, the zip code located on the west side of San Antonio, Texas.
+                        Stanford University’s Rural Education Action Program has established a one-of-a-kind research collaborative among Chinese, US, and European universities to improve.
                     </p>
 
                     <div className="footer-icons">
