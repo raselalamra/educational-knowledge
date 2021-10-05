@@ -29,7 +29,6 @@ const Founder = () => {
                                     <p>Phone: {importantPerson.phone}</p>
                                 </div>
                             </div>
-
                         ))}
                 </div>
             </div>

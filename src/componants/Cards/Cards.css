@@ -1,7 +1,6 @@
 .card-hover:hover{
     transform: scale(1.02);
-    transition: 1s;
-    
+    transition: 1s;   
 }
 .card-hover img{
     height: 20rem;

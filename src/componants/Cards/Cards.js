@@ -5,8 +5,6 @@ const Cards = (props) => {
     const { picture, instructor_name, details, course_name, subject } = props.courses
     return (
         <div className="card-hover col-12">
- 
- 
             <Col>
                 <Card>
                     <Card.Img variant="top" src={picture} />
@@ -18,8 +16,6 @@ const Cards = (props) => {
                     </Card.Body>
                 </Card>
             </Col>
- 
- 
         </div>
     );
 };

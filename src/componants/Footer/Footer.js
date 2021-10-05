@@ -9,7 +9,6 @@ const Footer = () => {
     return (
 
         <div>
-
             <footer className="footer-distributed">
 
                 <div className="footer-left">
@@ -59,9 +58,8 @@ const Footer = () => {
                     <FontAwesomeIcon className="icon" icon={faFacebook} size = '3x' />
                     <FontAwesomeIcon className="icon"  icon={faInstagram} size = '3x' />
                     <FontAwesomeIcon className="icon"  icon={faLinkedinIn} size = '3x' />
-
+                    
                     </div>
-
                 </div>
 
             </footer>

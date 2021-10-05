@@ -19,7 +19,7 @@ const About = () => {
                         <div className="col-md-4">
                             <div className="cart">
                                 <div className="logo-image">
-                                    <img className="w-50 border border-3 border-info rounded-circle" src={teacher.picture} alt="" />
+                                    <img className="w-50 border border-3 rounded-circle" src={teacher.picture} alt="" />
                                 </div>
                                 <h4 className=
                                     "mt-4">Name:{teacher.name}</h4>
@@ -28,7 +28,6 @@ const About = () => {
                                 <p><small>Subject:{teacher.subject}</small></p>
                             </div>
                         </div>
- 
                     ))}
             </div>
         </div>
