@@ -7,6 +7,7 @@ import { faFacebook, faInstagram, faLinkedin, faLinkedinIn } from '@fortawesome/
 
 const Footer = () => {
     return (
+
         <div>
 
             <footer className="footer-distributed">

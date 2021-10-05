@@ -1,7 +1,7 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
-import "./Founder.css"
+import "./Founder.css";
 
 const Founder = () => {
     const [person, setPerson] = useState([]);
@@ -19,7 +19,7 @@ const Founder = () => {
                             <div className="col-md-4">
                                 <div className="cart">
                                     <div className="logo-image">
-                                        <img className="w-50" src={importantPerson.image} alt="" />
+                                        <img className="w-50 " src={importantPerson.image} alt="" />
                                     </div>
                                     <h4 className=
                                         "mt-4">Name:{importantPerson.name}</h4>

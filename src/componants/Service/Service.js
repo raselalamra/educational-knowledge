@@ -19,8 +19,7 @@ const Service = () => {
             <Row xs={3} md={3} className="g-4 mt-4">
                 {
                     courses.map(course => <Cards courses={course}>
- 
- 
+                        
                     </Cards>)
                 }
             </Row>

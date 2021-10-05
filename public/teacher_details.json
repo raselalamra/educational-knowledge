@@ -18,7 +18,7 @@
   {
       "_id": "TD03",
       "index": 2,
-      "picture": "https://www.ourtimebd.com/beta/wp-content/uploads/2019/06/64515317_546725722400141_2886294700963135488_n.jpg",
+      "picture": "https://www.pust.ac.bd/includes/images/teachers/80996841_161136515160780_4166932087523246080_n.jpg",
       "name": "Joy Islam",
       "institution": "DU",
       "subject": "IBA"
@@ -41,7 +41,7 @@
   },
   {
       "_id": "TD05",
-      "picture": "https://3.bp.blogspot.com/-LqoWO9XxV6E/XErzIhYuC0I/AAAAAAAAANs/OTm_fVppSygCSZDLEaHD7Hh1GuQ1_hc1wCLcBGAs/s640/qualities-of-a-good-trainer.jpg",
+      "picture": "https://www.pust.ac.bd/includes/images/teachers/PUST_100150.jpg",
       "name": "Rishikesh Roy",
       "institution": "JU",
       "subject": "IPE"
@@ -49,7 +49,7 @@
   {
       "_id": "TD06",
       "index": 6,
-      "picture": "https://previews.123rf.com/images/belchonock/belchonock2003/belchonock200303091/141621408-professional-business-trainer-near-whiteboard-in-office.jpg",
+      "picture": "http://pstu.ac.bd/cse/images/teacher_images/10351144_10204083344061651_2433289155268612323_n.jpg",
       "name": "Nur Tushar",
       "institution": "BUET",
       "subject": "EEE"
@@ -57,15 +57,15 @@
   {
       "_id": "TD07",
       "index": 7,
-      "picture": "https://previews.123rf.com/images/fizkes/fizkes2002/fizkes200200082/139269609-head-shot-portrait-of-smiling-businesswoman-in-elegant-formal-suit-stands-with-arms-crossed-pose-for.jpg",
-      "name": "Kashfia Afroz",
+      "picture": "https://yt3.ggpht.com/ytc/AKedOLTnLnomZg9N2C1NWmsolQD4bf4jFBgPg1hsMG-R9wk=s176-c-k-c0x00ffffff-no-rj",
+      "name": "Saif Ahmed",
       "institution": "DU",
       "subject": "BBA"
   },
   {
       "_id": "TD08",
       "index": 8,
-      "picture": "https://previews.123rf.com/images/ra2studio/ra2studio1907/ra2studio190700301/126025081-young-businessman-with-laser-pointer-and-copyspace-white-wall.jpg",
+      "picture": "https://cse.uiu.ac.bd/wp-content/uploads/sites/2/2018/12/IMG_20181208_154734-294x300.jpg",
       "name": "Abu Sadat",
       "institution": "BUET",
       "subject": "Civil"
@@ -73,7 +73,7 @@
   {
       "_id": "TD09",
       "index": 9,
-      "picture": "https://previews.123rf.com/images/fizkes/fizkes1907/fizkes190700954/127410435-smiling-middle-aged-businessman-ceo-coach-speaker-in-suit-looking-at-camera-recording-video-training.jpg",
+      "picture": "https://mme.buet.ac.bd/wp-content/uploads/2019/01/Mr.-Sikder-Ashikuzzaman-Ayon1.jpg",
       "name": "Siyam Choudhury",
       "institution": "BUET",
       "subject": "CSE"
