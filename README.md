@@ -1,9 +1,7 @@
-# Getting Started with Create React App
+Our Website Name is - Explore Knowledge
+Link - https://educational-knowledge.netlify.app/home
+#This is one of the Best Educational Plartform for HSC SSC level students
+#We have Brilliant Mentors most of them are form DMC, BUET and DU.
+#We are giving best courses on every topic of HSC/SSC level students on an affordable price
 
-#This project was bootstrapped with [Create React App] (https://educational-knowledge.netlify.app/service).
 
-#This is a educational website. here you got somme lesson wich are made by best teachers in Dhaka.
-
-#This website helpfull for to manny students.
-
-# review-website-raselalamra
