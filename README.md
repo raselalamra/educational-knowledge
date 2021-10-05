@@ -1,11 +1,5 @@
 Our Website Name is - Explore Knowledge
-Link - https://educational-knowledge.netlify.app/home
+Link - https://explore-knowledge.netlify.app/
 #This is one of the Best Educational Plartform for HSC SSC level students
 #We have Brilliant Mentors most of them are form DMC, BUET and DU.
 #We are giving best courses on every topic of HSC/SSC level students on an affordable price
-
-<<<<<<< HEAD
-=======
-This project was bootstrapped with [Create React App] (https://educational-knowledge.netlify.app/home).
->>>>>>> 2eeae08deaa410d59c60bbea7f25580e5532b1cb
-
